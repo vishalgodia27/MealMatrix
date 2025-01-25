@@ -1,2 +1,2 @@
 # MealMatrix
-meal managmet and regulate manegemnt system 
+meal managmet and regulate managment system 
